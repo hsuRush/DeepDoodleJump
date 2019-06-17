@@ -1,6 +1,2 @@
 model_checkpoint_path: "doodlejump-dqn-16050000"
-all_model_checkpoint_paths: "doodlejump-dqn-16010000"
-all_model_checkpoint_paths: "doodlejump-dqn-16020000"
-all_model_checkpoint_paths: "doodlejump-dqn-16030000"
-all_model_checkpoint_paths: "doodlejump-dqn-16040000"
 all_model_checkpoint_paths: "doodlejump-dqn-16050000"
