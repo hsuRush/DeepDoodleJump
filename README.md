@@ -3,7 +3,7 @@
 ## Overview
 This project follows the description of the Deep Q Learning algorithm described in Playing Atari with Deep Reinforcement Learning [1] and shows that this learning algorithm can be further generalized to the doodle jump.
 
-Furthermore, I implement Deep Recurrent Q Learning and outperform the original DQN a lot.  
+Furthermore, I implement Deep Recurrent Q Learning [2] and outperform the original DQN a lot.  
 ## Installation Dependencies:
 * Python 3
 * TensorFlow 
@@ -64,4 +64,5 @@ avg score in 100 death    |3               |96
 
 ## References
 [1] Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. **Playing Atari with Deep Reinforcement Learning**. NIPS, Deep Learning workshop
-
+[2] Matthew Hausknecht and Peter Stone. **Deep Recurrent Q-Learning for Partially Observable MDPs**. AAAI 2015
+[3] https://github.com/f-prime/DoodleJump
