@@ -64,5 +64,7 @@ avg score in 100 death    |3               |96
 
 ## References
 [1] Volodymyr Mnih, Koray Kavukcuoglu, David Silver, Alex Graves, Ioannis Antonoglou, Daan Wierstra, and Martin Riedmiller. **Playing Atari with Deep Reinforcement Learning**. NIPS, Deep Learning workshop
+
 [2] Matthew Hausknecht and Peter Stone. **Deep Recurrent Q-Learning for Partially Observable MDPs**. AAAI 2015
+
 [3] https://github.com/f-prime/DoodleJump
