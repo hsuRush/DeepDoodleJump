@@ -89,8 +89,8 @@ _                         | DQN            | DRQN
 Survived time per death(s)|0.77            |**22.79**
 top score per death       |17              |**1464**
 avg score in 100 death    |3               |**256**
-## Conclusion
 
+## Conclusion
 ![reward](https://github.com/hsuRush/DeepDoodleJump/blob/master/readme_images/reward.png?raw=true)
 * The hidden reward platform (①,②) to the real reward(③) can be seen as a time sequence reward, the RNN is great at solving time sequence issues.
 ## References
@@ -99,3 +99,5 @@ avg score in 100 death    |3               |**256**
 [2] Matthew Hausknecht and Peter Stone. **Deep Recurrent Q-Learning for Partially Observable MDPs**. AAAI 2015
 
 [3] https://github.com/f-prime/DoodleJump
+
+[4] https://github.com/yenchenlin/DeepLearningFlappyBird
